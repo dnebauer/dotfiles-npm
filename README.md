@@ -1,4 +1,3 @@
-vcsh-npm
-========
+# dotfiles-npm
 
-Personal npm configuration in a vcsh repository.
+Personal npm configuration.
